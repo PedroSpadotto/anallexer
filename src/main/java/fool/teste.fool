@@ -1,0 +1,14 @@
+
+
+class Exemplo {
+    int a;
+    bool b;
+
+    void metodo(int x, bool y) {
+        if (x > 10) {
+            a = x + 1;
+        } else {
+            return True;
+        }
+    }
+}
